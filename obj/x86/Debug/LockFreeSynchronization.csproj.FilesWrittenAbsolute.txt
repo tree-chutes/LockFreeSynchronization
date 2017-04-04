@@ -1,0 +1,6 @@
+/Users/jose/Downloads/LockFreeSynchronization/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/jose/Downloads/LockFreeSynchronization/bin/Debug/LockFreeSynchronization.exe.mdb
+/Users/jose/Downloads/LockFreeSynchronization/bin/Debug/LockFreeSynchronization.exe
+/Users/jose/Downloads/LockFreeSynchronization/obj/x86/Debug/LockFreeSynchronization.exe
+/Users/jose/Downloads/LockFreeSynchronization/obj/x86/Debug/LockFreeSynchronization.exe.mdb
+/Users/jose/Downloads/LockFreeSynchronization/bin/Debug/Fit.dll

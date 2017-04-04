@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="AChannel.cs" Line="2" Column="1" />
+      <File FileName="ChannelLinq.cs" Line="45" Column="24" />
+      <File FileName="ChannelNoLinq.cs" Line="18" Column="21" />
+      <File FileName="LockFreeSynchronizationFactory.cs" Line="68" Column="33" />
+      <File FileName="LockFreeSynchronizationWorker.cs" Line="70" Column="5" />
+      <File FileName="LockFreeSynchronizationWorkerController.cs" Line="122" Column="1" />
+      <File FileName="Program.cs" Line="23" Column="54" />
+      <File FileName="StatResult.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LockFreeSynchronization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
